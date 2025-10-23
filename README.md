@@ -1,5 +1,4 @@
 # **About the Project**
-
 ---
 
 This project focuses on building interactive dashboards using several tools, including Microsoft Excel, Power BI, and Tableau.
